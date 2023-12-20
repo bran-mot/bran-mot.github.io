@@ -3,3 +3,54 @@
 ---
 
 @import "minima";
+
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: $spacing-unit;
+    > img {
+        &.span-2 {
+            grid-column-end: span 2;
+        }
+        &.span-3 {
+            grid-column-end: span 3;
+        }
+        &.span-4 {
+            grid-column-end: span 4;
+        }
+        &.span-6 {
+            grid-column-end: span 6;
+        }        
+    }
+}
+
+.post-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: $spacing-unit;
+}
+
+.site-header{
+    > .wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        > .site-title {
+            flex-grow: 1;
+        }
+        > .social-media-list {
+            display: flex;
+        }
+    }
+}
+
+.site-footer {
+    > .wrapper {
+        display: flex;
+        align-content: space-between;
+        > .copyright {
+            flex-grow: 1;
+            text-align: center;
+        }
+    }
+}
