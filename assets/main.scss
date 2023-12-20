@@ -40,6 +40,7 @@
         }
         > .social-media-list {
             display: flex;
+            align-items: baseline;
         }
     }
 }
@@ -51,6 +52,10 @@
         > .copyright {
             flex-grow: 1;
             text-align: center;
+        }
+        > .social-media-list {
+            display: flex;
+            align-items: baseline;
         }
     }
 }
