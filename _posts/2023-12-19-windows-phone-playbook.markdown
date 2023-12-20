@@ -5,22 +5,22 @@ date:   2023-12-19 18:58:55 -0700
 thumbnail: wpplaybook_thumb.jpg
 images: 
   - url: wpplaybook_19.jpg
-    altText: "Some alt text"
+    altText: "Cover of the Windows Phone Playbook"
     columnCount: 3
   - url: wpplaybook_20.jpg
-    altText: "Some alt text"
+    altText: "A layout featuring a full page pull quote"
     columnCount: 3
   - url: wpplaybook_05.jpg
-    altText: "Some alt text"
+    altText: "A spread showing a full page pull quote"
     columnCount: 3
   - url: wpplaybook_07.jpg
-    altText: "Some alt text"
+    altText: "A spread showing text and a diagram of a human brain"
     columnCount: 3
   - url: wpplaybook_13.jpg
-    altText: "Some alt text"
+    altText: "A spread showing a photo of the team"
     columnCount: 6
   - url: wpplaybook_17.jpg
-    altText: "Some alt text"
+    altText: "A srpead featuring images of people and text with a small pull quote"
     columnCount: 6
 ---
 
