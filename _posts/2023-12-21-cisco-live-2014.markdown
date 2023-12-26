@@ -1,0 +1,34 @@
+---
+layout: project
+title:  "Cisco Live 2014"
+date:   2023-12-19 18:58:55 -0700
+thumbnail: ciscoThumb.jpg
+images: 
+  - url: cisco_07.jpg
+    altText: "Three monitors showing dashboards"
+    columnCount: 6
+  - url: cisco_19.jpg
+    altText: "An iPhone with a train ticket in an app and a Cisco DX80 customer service terminal"
+    columnCount: 6
+  - url: cisco_15.jpg
+    altText: "A Cisco DX80 showing a train ticket booking detail"
+    columnCount: 3
+  - url: cisco_18.jpg
+    altText: "A Cisco DX80 showing a train ticket booking detail for a customer service user"
+    columnCount: 3
+  - url: cisco_31.jpg
+    altText: "An iPad displaying an interface for an engineer"
+    columnCount: 6
+  - url: cisco_27.jpg
+    altText: "An iPad displaying an interface for an engineer"
+    columnCount: 3
+  - url: cisco_29.jpg
+    altText: "An iPad displaying an interface for an engineer"
+    columnCount: 3
+
+---
+
+The Cisco presentation team showcases new technologies by telling stories on stage at their conferences. The stories were based on a scenario that required an interconnected web of applications and Cisco hardware. Cisco's team provided us with a loose script to bring to life with visuals and real app experiences.
+With a team of UX designers, visual designers, and developers, we crafted several apps and interfaces to help visualize these stories. These demo apps showcase the use of Cisco technology during international conferences for IT experts. They continue to live on as portable demos that can be showcased in smaller settings.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VqY4W1MPpNQ?si=JwNB5CdnDVM7yOzH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
